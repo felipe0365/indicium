@@ -47,7 +47,6 @@ Para executar este projeto localmente, siga os passos abaixo:
     ```bash
     pip install -r requirements.txt
     ```
-    _(Para criar o arquivo `requirements.txt`, execute `pip freeze > requirements.txt` no seu ambiente virtual após instalar as bibliotecas)._
 
 ## 🚀 Como Utilizar
 
